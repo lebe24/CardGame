@@ -19,6 +19,7 @@
 		CD2F28D72C04E34E004C9A26 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		CD2F28D92C04E352004C9A26 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CD2F28DC2C04E352004C9A26 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		CD2F28E32C04E392004C9A26 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +36,7 @@
 		CD2F28C92C04E34D004C9A26 = {
 			isa = PBXGroup;
 			children = (
+				CD2F28E32C04E392004C9A26 /* README.md */,
 				CD2F28D42C04E34E004C9A26 /* CardGame */,
 				CD2F28D32C04E34E004C9A26 /* Products */,
 			);
